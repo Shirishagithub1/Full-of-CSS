@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#head{
+    /* margin-top: 20px ;
+    margin-right: 20x;
+    margin-bottom: 20px;
+    margin-left: 20px;
+ */
+ margin-top: 150px;
+ margin:160px;
+ border-style: solid;
+ border-width: 4px;
+ 
+ text-align: center;
+ border-bottom-color:  red;
+ border-top-color: aqua;
+ border-left-color: blue;
+ border-right-color: chartreuse;
+border-bottom-style: dotted;
+border-top-style: dashed;
+border-right-style: double;
+/* border: 5px solid red; */
+padding: 19px;
+}
+#Hyd{
+
+padding: 9px;
+}
+#container{
+    /* background-image:radial-gradient(red,yellow,blue,aqua); */
+    height: 200%;
+    /* background-image: linear-gradient(to right,blue,yellow,orange); */
+    color: bisque;
+    background-image: url(https://images.unsplash.com/photo-1562690868-60bbe7293e94?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D);
+}

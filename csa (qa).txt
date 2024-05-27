@@ -1,0 +1,48 @@
+1)What is position property ? What are the different values of the CSS position property?
+ans:static   :	 Default value. Elements render in order, as they appear in the document flow	
+absolute     :   The element is positioned relative to its first positioned (not static) ancestor element	
+fixed	     :    The element is positioned relative to the browser window	
+relative     :	 The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position
+
+
+2)Explain the difference between position: relative and position: absolute?
+
+ans:
+
+ relative positioning moves an element relative to its default position on the page,
+ while absolute positioning moves an element relative to its nearest positioned ancestor.
+ Thank you so much for explaining it in so simple words. I understood it now. I will practice this to get more comfortable.
+
+3)How can you make an element semi-transparent using CSS?
+ans:
+use a <color> value that has an alpha channel, such as rgb() . As with opacity ,
+ a value of 1 for the alpha channel value makes the color fully opaque. Therefore, background-color: rgb(0 0 0 / 50%); 
+will set the background color to 50% opacity.
+
+4)scribe the difference between display: flex and display: inline-flex in CSS, and provide examples of when each would be appropriate in a development.
+ans:
+
+The display: inline-flex property will make the element a flexbox container and the container will be inline.
+ They can adjust their size. The items inside the container are also inline. The display: 
+flex property will make the items of the container inline but the container will block the whole row. The items in the container can adjust their size.
+
+5)What are the advantages of using CSS Grid layout?
+
+ans:
+Grids can greatly speed up and improve your design time, as they can act as a guide that signals where is best to place, position, 
+and scale elements. Instead of randomly positioning elements until you find a decent looking composition, a grid should help guide you toward a natural solution.
+
+6)9. What is CSS transition and how is it used?
+
+
+SS transitions allows you to change property values smoothly, over a given duration. In this chapter you will learn about the following properties: transition.
+
+
+7)How do you use CSS transform to manipulate elements?
+
+ans:
+
+he CSS transform property changes the shape, position, and orientation of page elements. Values of the CSS transform property are functions that
+ transform the target element, including translate(), scale(), and rotate(). A CSS transform rule is written as follows: transform: value(argument);
+
+8)

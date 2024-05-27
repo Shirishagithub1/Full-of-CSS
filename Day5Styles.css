@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&family=Roboto&display=swap');
+
+*{
+    color: #ff0000;
+
+    font-size: 1000;
+}
+#heading{
+    color:rgb(56, 136, 206);
+    background-color: brown;
+}
+.Dora{
+    color:rgb(87, 210, 30);
+}
+h4{
+    color: dimgrey;
+    background-color: black;
+}
+#heading{
+    color:rgb(56, 136, 206);
+    letter-spacing: 15px;
+}
+.Dora{
+    color:rgb(247, 4, 214);
+    
+}
+h4{
+    color: rgb(243, 16, 16);
+
+}
+#ParaGragh{
+    color:darkgreen;
+    font-family: "Roboto", sans-serif;
+}
+.Lorem{
+    color:blueviolet;
+}
+.Name{
+    color: darkorchid;
+}
+#Pavi{
+color: hsl(184, 72%, 70%);
+}
+.Pavis{
+    color: darkorange;
+}
+

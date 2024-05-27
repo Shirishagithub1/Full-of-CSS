@@ -1,0 +1,80 @@
+#flower{
+    height: 200px;
+    width: 200px;
+}
+#flower1{
+    height: 200pt;
+    width: 200pt;
+}
+#flower2{
+    height:20pc;
+    width: 20pc;
+}
+#flower3{
+    height:20mm;
+    width: 20mm; 
+}
+#siri{
+    color:blue;
+    text-align: center;
+}
+#sirisha{
+    color:brown;
+    text-align: center;
+}
+.container{
+    text-align: end;
+}
+#image{
+    height: 10px;
+    width: 800px;
+}
+#Heading{
+    text-align: center;
+}
+.container{
+    text-align: end;
+    color: brown;
+}
+#quote-1{
+    text-transform: uppercase;
+    /* text-transform: lowercase; */
+text-shadow: 400px 1px 1px red;
+white-space: nowrap;
+}
+#quote-2{
+text-transform: capitalize;
+letter-spacing: 10px;
+word-spacing: 10px;
+text-shadow: 1px 50px 1px red;
+
+}
+p{
+    /* space at the starting */
+    color: rgb(42, 61, 165);
+    text-indent: 50px;
+    text-shadow: 1px 1px 20px;
+
+}
+#wrap{
+    text-wrap: wrap;
+    line-height: 50px;
+    text-align-last: center;
+    column-count: 5;
+}
+#para1{
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+}
+#links{
+    text-decoration:none ;
+    color: rgb(126, 252, 8);
+    
+}
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    box-shadow: 40px 50px 50px black;
+}

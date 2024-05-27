@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    
+    
+
+    /* bottom: 0px;
+    top: 0;
+    right: 0; */
+}
+#Container{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    /* position: absolute; */
+}
+.Container2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(15, 233, 44);
+    position: absolute;
+    left: 50px;
+    z-index: -1;
+    top: 100px;
+}
+.Container3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(252, 12, 232); 
+top: 150px;
+z-index: 10px;
+opacity: 0.5; 
+}
+
+

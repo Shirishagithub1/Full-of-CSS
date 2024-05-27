@@ -1,0 +1,84 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+
+}
+#flower{
+    height: 200px;
+    width:200px;
+}
+#flower1{
+    height: 600px;
+    
+    background-image: url(https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg); /* background image property */
+  
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color:blueviolet;
+}
+p{
+    color: red;
+}
+img{
+    border: 2px solid rgb(12, 8, 233);
+    border-radius: 50%;
+    padding: 6px;
+    background-color: white;
+    box-shadow: 5px 5px 5px red;
+}
+#box,#box2,#box3 {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin: 9px;
+}
+#box2{
+    
+    background-color: rgb(42, 8, 235);
+    padding: 60px;
+}
+#box3{
+    
+    background-color: rgb(8, 235, 38);
+}
+ol{
+    padding: 20px;
+    list-style-image: linear-gradient(to left bottom, rgb(247, 246, 246), rgb(52, 253, 2));
+
+}
+ul{
+    padding: 20px;
+    list-style-type: square;
+    list-style-image:
+    url("https://write..org/wp-content/uploads/listitem-1.png");
+        /* list-style-image: url(  to left bottom ./star.gif); */
+}
+#mask{
+    height: 1000px;
+    
+    background-image: url(https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg);
+     background-size: contain; 
+     background-repeat: no-repeat; 
+     mask-image: url(./image/—Pngtree—bule\ border_3551748\ \(1\).png);
+     
+}
+#List{
+    list-style-type: lower-roman;
+
+}
+List1{
+    list-style-type: disc;
+
+}

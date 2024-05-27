@@ -1,0 +1,75 @@
+#table,td,th
+            {
+                border-bottom: 1px solid red;
+                padding: 10px;    
+                text-align: center;
+                border-collapse: collapse;
+                
+            }
+            h1{
+                text-align: center;
+            }
+            #box{
+                height: 300px;
+                width: 300px;
+                background-color: chartreuse;
+                overflow: auto;
+
+            }
+            /* unvisited link */
+            a:link{
+                color: blueviolet;
+            }
+            /*visited link */
+             a:visited{
+                color:rgb(29, 243, 9);
+            } 
+            /*  hover link */
+            a:hover{
+                color:black;
+            }
+            /* Inlline element */
+            b{
+                color: rgb(240, 232, 232);
+                background-color: blue;
+                display: block;
+            }
+            a:active{
+                color: bisque;
+            }
+            /*Block level*/
+            h4{
+                background-color: rgb(233, 22, 22);
+                height:150px;
+                width:160px;
+                display: inline;
+                 display: none;  /*its going to hide the content */
+            }
+            h3{
+                height: 200px;
+                width: 200px;
+                background-color: aqua;
+                 visibility: hidden; 
+    
+            }
+            #hh{
+                height: 100px;
+                width:100px;
+                background-color: brown;
+            }
+            #pp{
+                display: inline;
+            }
+
+            #image{
+                float:left;
+                margin: 20px;
+            }
+            #imag{
+                 float: right;
+                 margin: 20px; 
+            }
+            #para{
+                color: white;
+            }
+            
